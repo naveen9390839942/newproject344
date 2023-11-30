@@ -5,7 +5,7 @@
   
   **1.Create 10 files into the current directory**
 
-![Scrrenshot98](https://github.com/naveen9390839942/NewProject/assets/129715479/899f7b53-83b7-49f3-8d42-3a36aa8f916c)
+![Scrrenshot(98)](https://github.com/naveen9390839942/NewProject/assets/129715479/899f7b53-83b7-49f3-8d42-3a36aa8f916c)
 
   **2.add and commit the changes and push the content**
 
